@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">แปลงค่าเงิน</string>
+    <string name="si">Translate</string>
+    <string name="usdthb">USD TO THB </string>
+    <string name="thbusd">THB TO USD</string>
+    <string name="edt">Insert</string>
+
+</resources>

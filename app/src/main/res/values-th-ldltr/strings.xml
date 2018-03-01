@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="si">ิแปลงภาษา</string>
+    <string name="usdthb">ดอลล่าสหรัส เป็น บาท</string>
+    <string name="thbusd">บาท เป็น ดอลล่าสหรัส</string>
+    <string name="edt">ป้อนค่าที่ต้องการ</string>
+</resources>
